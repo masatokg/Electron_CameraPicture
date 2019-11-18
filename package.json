@@ -1,0 +1,21 @@
+{
+  "name": "1.001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "masatokg",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^7.1.1",
+    "electron-prebuilt": "^1.4.13",
+    "urlsafe-base64": "^1.0.0"
+  },
+  "dependencies": {
+    "urlsafe-base64": "^1.0.0",
+    "fs": "0.0.1-security"
+  }
+}
